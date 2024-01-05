@@ -1,0 +1,15 @@
+1ERE PHASE
+Filtre sur seulement un arrondissement. 
+L'utilisateur rentre des coordonnées en command line. Output: les coordonnées des arbres les plus proches, leur espèce, leur âge.
+
+2E PHASE
+Afficher les arbres sur une map
+
+3E PHASE
+En ayant les coordonnées de l'utilisateur, le programme affiche sur la map des points à aller voir, qui sont des arbres particuliers (très vieux, 
+espèce rare, grand DHP, etc). L'utilisateur doit se rendre à l'endroit physique pour que les informations soient dévoilées, et il "récolte" 
+l'arbre dans sa liste d'arbres visités.
+
+4E PHASE
+C'est une application interactive où les utilisateurs comparent leurs points entre eux, et peuvent ajouter des informations et des photos
+des arbres qu'ils voient. Ils peuvent voir les arbres vus par leurs amis.
